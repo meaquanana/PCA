@@ -1,0 +1,6 @@
+/home/meaqua/Corrector/src/build/CMakeFiles/main.dir
+/home/meaqua/Corrector/src/build/CMakeFiles/edit_cache.dir
+/home/meaqua/Corrector/src/build/CMakeFiles/rebuild_cache.dir
+/home/meaqua/Corrector/src/build/Corrector/CMakeFiles/correct.dir
+/home/meaqua/Corrector/src/build/Corrector/CMakeFiles/edit_cache.dir
+/home/meaqua/Corrector/src/build/Corrector/CMakeFiles/rebuild_cache.dir

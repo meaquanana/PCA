@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcorrect.a CMakeFiles/correct.dir/src/corrector.cpp.o
+/usr/bin/ranlib libcorrect.a
